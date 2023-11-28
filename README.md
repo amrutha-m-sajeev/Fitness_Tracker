@@ -1,1 +1,1 @@
-# fitiness_tracker
+# fitness_tracker
